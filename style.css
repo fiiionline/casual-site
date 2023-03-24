@@ -1,0 +1,22 @@
+body {
+    background-color: #26201C;
+  }
+  
+  svg {
+    opacity: 50%;
+  }
+  
+  .bio {
+    width: 33%;
+    color: #FFFCE3;
+    padding: 10%;
+  
+  }
+  
+  a:link{
+    color:#FFFCE3;
+  }
+  
+  a:visited {
+    color: #FFFCE3;
+  }
